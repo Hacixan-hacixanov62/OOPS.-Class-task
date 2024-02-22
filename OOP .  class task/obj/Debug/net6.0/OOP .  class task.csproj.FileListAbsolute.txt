@@ -1,0 +1,14 @@
+C:\C#\OOP .  class task\OOP .  class task\bin\Debug\net6.0\OOP .  class task.exe
+C:\C#\OOP .  class task\OOP .  class task\bin\Debug\net6.0\OOP .  class task.deps.json
+C:\C#\OOP .  class task\OOP .  class task\bin\Debug\net6.0\OOP .  class task.runtimeconfig.json
+C:\C#\OOP .  class task\OOP .  class task\bin\Debug\net6.0\OOP .  class task.dll
+C:\C#\OOP .  class task\OOP .  class task\bin\Debug\net6.0\OOP .  class task.pdb
+C:\C#\OOP .  class task\OOP .  class task\obj\Debug\net6.0\OOP .  class task.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\OOP .  class task\OOP .  class task\obj\Debug\net6.0\OOP .  class task.AssemblyInfoInputs.cache
+C:\C#\OOP .  class task\OOP .  class task\obj\Debug\net6.0\OOP .  class task.AssemblyInfo.cs
+C:\C#\OOP .  class task\OOP .  class task\obj\Debug\net6.0\OOP .  class task.csproj.CoreCompileInputs.cache
+C:\C#\OOP .  class task\OOP .  class task\obj\Debug\net6.0\OOP .  class task.dll
+C:\C#\OOP .  class task\OOP .  class task\obj\Debug\net6.0\refint\OOP .  class task.dll
+C:\C#\OOP .  class task\OOP .  class task\obj\Debug\net6.0\OOP .  class task.pdb
+C:\C#\OOP .  class task\OOP .  class task\obj\Debug\net6.0\OOP .  class task.genruntimeconfig.cache
+C:\C#\OOP .  class task\OOP .  class task\obj\Debug\net6.0\ref\OOP .  class task.dll
